@@ -8,7 +8,7 @@
   "generalUnknownHash": "Blad z rejestrem, zglos sprawe do administracji.",
   "loginTriesExceeded": "Wyczerpano liste logowan: %max%",
   "loginFail": "Nie udalo sie zalogowac! Bledne haslo.",
-  "loginSuccess": "Zalogowano!",
+  "loginSuccess": " &lGratulacje Zalogowano!",
   "changeFail": "Nie zmieniono hasla, wystapil blad!",
   "changeSuccess": "Prawidlowo zmieniono haslo!",
   "logoutFail": "Blad z wylogowaniem! %error%",
